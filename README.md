@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&pause=1000&duration=4000&color=00C6FF&center=true&width=435&repeat=false&lines=%F0%9F%91%8B+Hey%2C+it%27s+Rodrigo%20Coelli!+%F0%9F%91%8B" />
+
+<a href="https://github.com/rodrigocoelli"><img src="https://github-widgetbox.vercel.app/api/profile?username=rodrigocoelli&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="rodrigocoelli Profile WidgetBox"></a>
+<img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,sass,tailwind,js,ts,react,next,go,git,firebase,linux,bash,lua&amp;theme=darkmode" alt="MAHcodes Skills WidgetBox">
