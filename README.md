@@ -1,4 +1,5 @@
 <!--
+ 
 **rodrigocoelli/rodrigocoelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div>
+  <a href="https://github.com/rodrigocoelli">
+  <div  align="center"> 
+ 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&pause=1000&duration=4000&color=00C6FF&center=true&width=435&repeat=false&lines=%F0%9F%91%8B+Hey%2C+it%27s+Rodrigo%20Coelli!+%F0%9F%91%8B" />
 
 <a href="https://github.com/rodrigocoelli"><img src="https://github-widgetbox.vercel.app/api/profile?username=rodrigocoelli&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="rodrigocoelli Profile WidgetBox"></a>
@@ -24,4 +28,8 @@ Here are some ideas to get you started:
 <a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00c6ff&color=161c1c" /></a>
 <a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&logo=dwm&color=161c1c&logoColor=00c6ff" /></a>
 <a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=for-the-badge&logo=neovim&color=161c1c&logoColor=00c6ff" /></a>
- ![Snake animation]([https://github.com/rodrigocoelli/rodrigocoelli/blob/main/github-contribution-grid-snake.svg)
+
+  <br>
+![Snake animation]([https://github.com/rodrigocoelli/rodrigocoelli/blob/main/github-contribution-grid-snake.svg)
+</div>
+    </div>
