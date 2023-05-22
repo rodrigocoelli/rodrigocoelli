@@ -31,5 +31,7 @@ Here are some ideas to get you started:
 
   <br>
 ![Snake animation]([https://github.com/rodrigocoelli/rodrigocoelli/blob/main/github-contribution-grid-snake.svg)
+   
+       ![snake gif](https://github.com/rodrigocoelli/rodrigocoelli/blob/output/github-contribution-grid-snake.svg)
 </div>
     </div>
