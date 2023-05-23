@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 <a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&logo=dwm&color=161c1c&logoColor=00c6ff" /></a>
 <a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=for-the-badge&logo=neovim&color=161c1c&logoColor=00c6ff" /></a>
 
-  <br>
-![Snake animation]([https://github.com/rodrigocoelli/rodrigocoelli/blob/main/github-contribution-grid-snake.svg)
+ 
    
 
 </div>
